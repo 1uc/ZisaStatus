@@ -24,6 +24,5 @@
 [![Docs Status](https://github.com/1uc/ZisaFVM/actions/workflows/publish_docs.yml/badge.svg?branch=main)](https://1uc.github.io/ZisaFVM)
 
 ## Zisa
-[![Build Status](https://github.com/1uc/Zisa/actions/workflows/basic_integrity_checks.yml/badge.svg?branch=main)](https://github.com/1uc/Zisa/actions)
 [![Docs Status](https://github.com/1uc/Zisa/actions/workflows/publish_docs.yml/badge.svg?branch=main)](https://1uc.github.io/Zisa)
 
